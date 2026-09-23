@@ -1,7 +1,7 @@
 <?php
 session_start();
 require_once 'products.php';
-require_once 'functions.php';
+require_once 'functions.php';G
 
 // Panggil fungsi simpan jika tombol diklik
 if (isset($_POST['submit'])) {
